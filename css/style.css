@@ -39,8 +39,8 @@ Version:	1.0
 
 body {
 	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	/*color: #1f1f1f;*/
-	color: #d7b88c;
+	color: #1f1f1f;
+	/*color: #d7b88c;*/
 }
 
 .body {
@@ -128,7 +128,7 @@ header {
 }
 
 img.logie {
-    height: 72px;
+    height: 45px;
     width: auto;
     margin: 0;
 	}
