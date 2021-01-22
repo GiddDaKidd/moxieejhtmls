@@ -6239,6 +6239,7 @@ span.selectOption:hover {
 
 .slick-slide img {
 width:100%;
+height: 100%;
 }
 
 .product-slider .slick-slide h4,
